@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495115537471",
+    "project_id": "ayahcare-app-7866",
+    "storage_bucket": "ayahcare-app-7866.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495115537471:android:10a167b9f86c6777c83c8a",
+        "android_client_info": {
+          "package_name": "com.example.ayahcare_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADsdbGEjznS6rfAqXoqtdyw2ZhIHAkGtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
